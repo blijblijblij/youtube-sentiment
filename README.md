@@ -1,10 +1,10 @@
 # youtube-sentiment
 
-An experiment to figure out how to interact with youtube data api, trying to gather statistical information on videos.
+An experiment to figure out how to interact with the youtube data api, gathering statistical information on videos.
 
-- utilize the youtube api
+- utilize the youtube data  (v3)
 - get metrics on a curated list of videos
-- measure the sentiment on result
+- measure the sentiment on youtube user comment to those videos
 - profit!
 
 ## Instructions
@@ -20,7 +20,7 @@ Generate an google api key for the youtube data api and make that available as a
 export YT_API_KEY=zjhfsdjhfgsjdhfgjshdfgs
 ```
 
-Or by adding it the a `.env` file.
+Or by adding it the a `.env` file in the root folder of this project.
 
 Then run:
 
@@ -50,7 +50,7 @@ neutral|0.0|@u
 negative|-1.1875|Oscar is so cute and funny but I hate when popy buck and harchi bully Oscar :( . Ticks me out so much
 positive|0.25|Been so long since I seen dis
 negative|-0.3125|I like the brown Lizard
-positive|0.041700000000000015|How did the chicken  get  green <br />And big
+positive|0.041700000000000015|How did the chicken get green <br />And big
 neutral|0.0|stuped
 neutral|0.0|ggdhshhhrrghsgccsjetcr
 negative|-0.3125|I like the brown lizards and greeeeeeeen!!!
@@ -63,4 +63,4 @@ neutral|0.0|me to
 negative|-0.4375|I hate popy
 ```
 
-So, the data is there, though one could argue the sentiment analyses on comment to the video are not very classified using the `sentimental` [gem](https://rubygems.org/gems/sentimental).
+So, the data is there, though one could argue the sentiment analyses on the comments using the `sentimental` [gem](https://rubygems.org/gems/sentimental) with raw data did not yield impressive result (yet)...
