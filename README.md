@@ -1,3 +1,5 @@
+[![Dependency Status](https://beta.gemnasium.com/badges/github.com/blijblijblij/youtube-sentiment.svg)](https://beta.gemnasium.com/projects/github.com/blijblijblij/youtube-sentiment)
+
 # youtube-sentiment
 
 An experiment to figure out how to interact with the youtube data api, gathering statistical information on videos.
