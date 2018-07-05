@@ -16,7 +16,7 @@ GEM
       nokogiri (>= 1.5.9)
     mini_portile2 (2.3.0)
     minitest (5.11.3)
-    nokogiri (1.8.2)
+    nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
     sentimental (1.4.1)
     sentimentalizer (0.3.1)
