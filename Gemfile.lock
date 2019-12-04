@@ -7,11 +7,11 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     concurrent-ruby (1.1.5)
-    crass (1.0.4)
+    crass (1.0.5)
     dotenv (2.7.5)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
-    loofah (2.2.3)
+    loofah (2.3.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mini_portile2 (2.4.0)
@@ -31,7 +31,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv (~> 2.7)
-  loofah (~> 2.2)
+  loofah (~> 2.3)
   sentimental (~> 1.5)
   sentimentalizer (~> 0.3.1)
   yt (~> 0.32.4)
