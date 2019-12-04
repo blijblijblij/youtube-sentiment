@@ -12,7 +12,7 @@ GEM
     dotenv (2.7.5)
     i18n (1.7.0)
       concurrent-ruby (~> 1.0)
-    loofah (2.3.1)
+    loofah (2.4.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mini_portile2 (2.4.0)
@@ -33,7 +33,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv (~> 2.7)
-  loofah (~> 2.3)
+  loofah (~> 2.4)
   sentimental (~> 1.5)
   sentimentalizer (~> 0.3.1)
   yt (~> 0.32.5)
