@@ -3,7 +3,7 @@
 source 'http://rubygems.org'
 
 gem 'dotenv', '~> 2.7'
-gem 'loofah', '~> 2.4'
+gem 'loofah', '~> 2.5'
 gem 'sentimental', '~> 1.5'
 gem 'sentimentalizer', '~> 0.3.2'
 gem 'yt', '~> 0.32.6'
