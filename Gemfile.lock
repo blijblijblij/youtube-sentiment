@@ -10,7 +10,7 @@ GEM
     concurrent-ruby (1.1.6)
     crass (1.0.6)
     dotenv (2.7.5)
-    i18n (1.8.2)
+    i18n (1.8.3)
       concurrent-ruby (~> 1.0)
     loofah (2.6.0)
       crass (~> 1.0.2)
@@ -24,7 +24,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
-    yt (0.32.6)
+    yt (0.33.0)
       activesupport
     zeitwerk (2.3.0)
 
@@ -36,7 +36,7 @@ DEPENDENCIES
   loofah (~> 2.6)
   sentimental (~> 1.5)
   sentimentalizer (~> 0.3.2)
-  yt (~> 0.32.6)
+  yt (~> 0.33.0)
 
 BUNDLED WITH
    1.16.0
