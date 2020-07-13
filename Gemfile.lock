@@ -9,7 +9,7 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     concurrent-ruby (1.1.6)
     crass (1.0.6)
-    dotenv (2.7.5)
+    dotenv (2.7.6)
     i18n (1.8.3)
       concurrent-ruby (~> 1.0)
     loofah (2.6.0)
