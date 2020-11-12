@@ -22,11 +22,11 @@ GEM
     sentimental (1.5.0)
     sentimentalizer (0.3.2)
     thread_safe (0.3.6)
-    tzinfo (1.2.7)
+    tzinfo (1.2.8)
       thread_safe (~> 0.1)
-    yt (0.33.1)
+    yt (0.33.2)
       activesupport
-    zeitwerk (2.4.0)
+    zeitwerk (2.4.1)
 
 PLATFORMS
   ruby
@@ -36,7 +36,7 @@ DEPENDENCIES
   loofah (~> 2.7)
   sentimental (~> 1.5)
   sentimentalizer (~> 0.3.2)
-  yt (~> 0.33.1)
+  yt (~> 0.33.2)
 
 BUNDLED WITH
    1.16.0
