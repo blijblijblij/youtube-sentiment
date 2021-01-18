@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (6.1.0)
+    activesupport (6.1.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -25,7 +25,7 @@ GEM
     sentimentalizer (0.3.2)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
-    yt (0.33.3)
+    yt (0.33.4)
       activesupport
     zeitwerk (2.4.2)
 
@@ -37,7 +37,7 @@ DEPENDENCIES
   loofah (~> 2.9)
   sentimental (~> 1.5)
   sentimentalizer (~> 0.3.2)
-  yt (~> 0.33.3)
+  yt (~> 0.33.4)
 
 BUNDLED WITH
    1.16.0
